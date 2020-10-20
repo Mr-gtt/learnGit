@@ -1,1 +1,2 @@
-make git great 
+make git great
+make ops great again 
